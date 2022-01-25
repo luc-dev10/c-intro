@@ -6,5 +6,5 @@ int main(void) {
   printf("%c", x);
 
   // characters are stored as numbers ASCII
-
+  
 }
