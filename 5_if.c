@@ -12,3 +12,5 @@ int main(void) {
   }
 
 }
+
+// 0 is always false it seems
