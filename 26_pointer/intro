@@ -1,0 +1,4 @@
+int* myValPointer = NULL; // pointer to nothing
+
+
+

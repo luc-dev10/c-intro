@@ -1,0 +1,5 @@
+
+pointerVariable = (type*)realloc(pointerVariable, numElements * sizeof(type))
+
+// reset its size
+

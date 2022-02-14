@@ -1,0 +1,19 @@
+
+// used to allocate memory for centain bytes 8 bits = 1 byte
+// include <stdlib.h>
+// malloc(sizeof(type)) - takes single param indicating int of byte size
+
+// return the allocated memoery by calling (type*)malloc(sizeof(type));
+
+// alloc may return null if program failed to allocate memory
+
+
+// allocate double memory and get pointer
+double* newInputPtr = (double*)malloc(sizeof(double));
+
+---------------------------------------------
+
+// accessing malloc with struct
+
+structPtr->memberName     // Equivalent to (*structPtr).memberName
+

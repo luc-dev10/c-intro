@@ -1,0 +1,36 @@
+
+- #include <string.h> for function dealing with pointers
+- 
+
+// methods
+int strcmp(const char* str1, const char* str2);
+
+char* strcpy(char* destination, const char* source);
+
+
+---------------------------
+
+strchr()	-> return pointer of first occurance and followed by rest of characters
+
+strchr(sourceStr, searchChar)
+
+---------------------------
+
+strrchr() -> return pointer of last occurance and followed by rest of characters
+
+---------------------------
+
+strstr() -> return pointer of first occurance and followed by rest for characters
+that are string
+
+---------------------------
+
+strcpy(nameAndTitle, "Mr. Allen Reed");
+// copying values
+
+---------------------------
+
+// remember when replacing string, other characters remain there
+// all chars look to be replaced
+
+---------------------------

@@ -1,0 +1,6 @@
+
+
+// helps set size dynamically
+
+pointerVariableName = (dataType*)malloc(numElements * sizeof(dataType))
+

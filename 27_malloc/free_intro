@@ -1,0 +1,8 @@
+
+// deallocates memory
+// or dereferences pointer
+
+// free(pointer)
+
+double* newInputPtr = (double*)malloc(sizeof(double));
+free(newInputPtr);
