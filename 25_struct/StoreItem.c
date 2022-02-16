@@ -10,3 +10,4 @@ void StoreItemSetWeightOunces
 void StoreItemPrint(StoreItem storeItem) {
    printf("Weight (ounces): %d\n", storeItem.weightOunces);
 }
+
